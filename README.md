@@ -36,7 +36,7 @@ Follow the modules **sequentially from Module 1 to Module 6** for the best learn
 | [Module 3](./Pre%20Security/Module%203) | Operating Systems | 5 files | ✅ Complete |
 | [Module 4](./Pre%20Security/Module%204) | Networking Fundamentals | 5 files | ✅ Complete |
 | [Module 5](./Pre%20Security/Module%205) | Web Infrastructure | 4 files | ✅ Complete |
-| [Module 6](./Pre%20Security/Module%206) | Security Foundations | 1+ files | 🔄 In Progress |
+| [Module 6](./Pre%20Security/Module%206) | Security Foundations | 2 files | ✅ Complete |
 
 ## 📖 Quick Navigation
 
